@@ -1,5 +1,5 @@
 # Parallax-effect-Project
-Creating a Parallax effects based Website 
+Creating a Parallax effects based Webpage 
 
 A Fantastic Experience Today, I learned about PARALLAX WEBSITE, which was very well explained and taught by Love Babbar. I've learned 3-D Transformation, 3-D Preserve, and a lot more.
 
